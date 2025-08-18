@@ -1,0 +1,4 @@
+/home/bellatrix/training/hangman-c++/build/CMakeFiles/hangman.dir
+/home/bellatrix/training/hangman-c++/build/CMakeFiles/copy_data.dir
+/home/bellatrix/training/hangman-c++/build/CMakeFiles/edit_cache.dir
+/home/bellatrix/training/hangman-c++/build/CMakeFiles/rebuild_cache.dir
