@@ -1,6 +1,7 @@
-#include "WordProvider.hpp"
-#include <iostream>
+#include "Game.hpp"
 
 int main() {
-    std::cout << "Zufälliges Wort: " << WordProvider::getWord() << "\n"; 
+    Game g;
+    g.run();
+    return 0;
 }
